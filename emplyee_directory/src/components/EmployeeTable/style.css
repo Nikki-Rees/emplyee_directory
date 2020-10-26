@@ -1,0 +1,10 @@
+.img-container {
+  height: 60px;
+  width: 60px;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+}
+.img-container > img {
+  width: 100%
+}
